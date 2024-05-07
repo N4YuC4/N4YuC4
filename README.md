@@ -59,8 +59,5 @@
 
 ###
 
-<div align="center">
-  <img height="900" src="https://cdn.donmai.us/original/64/3c/643ce2484db0f88f845105a6a57372b2.png"  />
-</div>
 
 ###
