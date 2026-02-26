@@ -1,63 +1,42 @@
-<h1 align="left">Hi 👋</h1>
-
-###
-
-<p align="left">My name is Yücel and I'm a Software Developer.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Data Science, Machine Learning... <br>🎓Student at Mehmet Akif Ersoy University.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Platforms</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="left">My Stats</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4YuC4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N4YuC4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h1>Nazmi Yücel Çan</h1>
+  <p><strong>Software Development Student | Aspiring NLP Enthusiast</strong></p>
 </div>
 
-###
+---
 
-<h5 align="center">Profile Views</h5>
+### 📚 About Me
 
-###
+- 💠 **Student** – Studying Information Systems and Technologies at Burdur Mehmet Akif Ersoy University.
+- 💠 **Learning Journey** – Currently focusing on the fundamentals of **Natural Language Processing (NLP)** and Machine Learning.
+- 💠 **Objective** – Strengthening my foundation in **Python** while exploring data-driven solutions and text analysis.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/N4YuC4/count.svg?"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-###
+---
+
+### 📈 Monthly Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4YuC4&theme=dracula&area=true&hide_border=true" width="100%" alt="Monthly Contribution Graph" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 💠 **Website:** [n4yuc4.github.io](https://n4yuc4.github.io/)
+- 💠 **Email:** [yucelcan028@gmail.com](mailto:yucelcan028@gmail.com)
