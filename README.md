@@ -1,4 +1,12 @@
 <div align="center">
+
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Natural+Language+Processing;Python+Developer" alt="Typing SVG" />
+  
+  <img src="assets/BigDataIllustrations_cropped.gif" />
+
+</p>
+
   <h1>Hi, I'm Nazmi Yücel Çan</h1>
   <h3>Data Science & Machine Learning | Focusing on NLP</h3>
   
