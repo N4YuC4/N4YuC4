@@ -9,6 +9,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome@131.0.6778.85
       - uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
           user_name: "n4yuc4"
