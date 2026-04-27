@@ -15,12 +15,11 @@
     <a href="mailto:yucelcan028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://n4yuc4.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://medium.com/@n4yuc4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <p align="center">
-      <a href="https://www.kaggle.com/n4yuc4">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Kaggle&query=rank&url=https%3A%2F%2Fkaggle-stats-api.vercel.app%2Fapi%2Fn4yuc4&color=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle Rank" />
-      </a>
-    </p>
-    </div>
+    <a href="https://www.kaggle.com/n4yuc4">
+      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Stats" />
+    </a>
+  </p>
+</div>
 ---
 
 <table width="100%">
