@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
-          kaggle_username: "n4yuc4"
+          user_name: "n4yuc4"
