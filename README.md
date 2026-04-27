@@ -15,54 +15,17 @@
     <a href="mailto:yucelcan028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://n4yuc4.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://medium.com/@n4yuc4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://www.kaggle.com/n4yuc4">
-      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Stats" />
-    </a>
+    <a href="https://www.kaggle.com/n4yuc4"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
   </p>
 </div>
 
 ---
 
-### 📊 Kaggle Data Science Portfolio
-
-<div align="center">
+<p align="center">
   <a href="https://www.kaggle.com/n4yuc4">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Profile" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Stats" />
   </a>
-</div>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>🏆 Competitions</strong></td>
-    <td align="center" width="25%"><strong>📓 Notebooks</strong></td>
-    <td align="center" width="25%"><strong>💾 Datasets</strong></td>
-    <td align="center" width="25%"><strong>💬 Discussions</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/n4yuc4/competitions">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Competitions" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/n4yuc4/code">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebooks" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/n4yuc4/datasets">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Datasets" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/n4yuc4/discussion">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Discussions" />
-      </a>
-    </td>
-  </tr>
-</table>
+</p>
 
 ---
 
