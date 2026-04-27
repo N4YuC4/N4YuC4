@@ -19,6 +19,8 @@ jobs:
       - uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
           user_name: "n4yuc4"
+      - name: Debug - List files
+        run: ls -R
       - name: Commit and Push badges
         run: |
           git config --global user.name "github-actions[bot]"
