@@ -21,9 +21,11 @@
 
 ---
 
+### 📊 Kaggle Analytics
+
 <p align="center">
   <a href="https://www.kaggle.com/n4yuc4">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Stats" />
+    <img src="https://kaggle-profile-summary-card.vercel.app/api?username=n4yuc4&theme=tokyonight" alt="Kaggle Profile Summary Card" />
   </a>
 </p>
 
