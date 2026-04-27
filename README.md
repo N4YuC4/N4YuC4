@@ -20,6 +20,19 @@
     </a>
   </p>
 </div>
+
+---
+
+### 📊 Kaggle Achievements
+<p align="center">
+  <a href="https://www.kaggle.com/n4yuc4">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Kaggle Competitions" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Kaggle Datasets" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Kaggle Notebooks" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Kaggle Discussions" />
+  </a>
+</p>
+
 ---
 
 <table width="100%">
