@@ -1,0 +1,14 @@
+name: Kaggle Badges
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gün gece yarısı
+  workflow_dispatch:
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: spider-man-tm/kaggle-badges@v1.3.0
+        with:
+          kaggle_username: "n4yuc4"

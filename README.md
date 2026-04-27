@@ -15,8 +15,15 @@
     <a href="mailto:yucelcan028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://n4yuc4.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://medium.com/@n4yuc4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://www.kaggle.com/n4yuc4"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
   </p>
 </div>
+
+---
+
+<p align="center">
+  <img src="./kaggle-badges.svg" alt="Kaggle Badges" />
+</p>
 
 ---
 
