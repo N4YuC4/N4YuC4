@@ -21,39 +21,6 @@
 
 ---
 
-### 📊 Kaggle Data Science Dashboard
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"><strong>🏆 Competitions</strong></td>
-      <td align="center"><strong>📓 Notebooks</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Competition" />
-      </td>
-      <td align="center">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebook" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>💾 Datasets</strong></td>
-      <td align="center"><strong>💬 Discussions</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Dataset" />
-      </td>
-      <td align="center">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Discussion" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -86,6 +53,29 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 Kaggle Dashboard
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Competition" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebook" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Dataset" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Discussion" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
