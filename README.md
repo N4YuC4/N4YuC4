@@ -23,15 +23,46 @@
 
 ---
 
-### 📊 Kaggle Achievements
-<p align="center">
+### 📊 Kaggle Data Science Portfolio
+
+<div align="center">
   <a href="https://www.kaggle.com/n4yuc4">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Kaggle Competitions" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Kaggle Datasets" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Kaggle Notebooks" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Kaggle Discussions" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Profile" />
   </a>
-</p>
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>🏆 Competitions</strong></td>
+    <td align="center" width="25%"><strong>📓 Notebooks</strong></td>
+    <td align="center" width="25%"><strong>💾 Datasets</strong></td>
+    <td align="center" width="25%"><strong>💬 Discussions</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.kaggle.com/n4yuc4/competitions">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Competitions" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/n4yuc4/code">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebooks" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/n4yuc4/datasets">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Datasets" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/n4yuc4/discussion">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Discussions" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
