@@ -26,17 +26,8 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" colspan="4">
-        <a href="https://www.kaggle.com/n4yuc4">
-          <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Profile Summary" width="600px" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Competitions</strong></td>
-      <td align="center"><strong>Notebooks</strong></td>
-      <td align="center"><strong>Datasets</strong></td>
-      <td align="center"><strong>Discussions</strong></td>
+      <td align="center"><strong>🏆 Competitions</strong></td>
+      <td align="center"><strong>📓 Notebooks</strong></td>
     </tr>
     <tr>
       <td align="center">
@@ -45,6 +36,12 @@
       <td align="center">
         <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebook" />
       </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💾 Datasets</strong></td>
+      <td align="center"><strong>💬 Discussions</strong></td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Dataset" />
       </td>
