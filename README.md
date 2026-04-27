@@ -21,13 +21,39 @@
 
 ---
 
-### 📊 Kaggle Analytics
+### 📊 Kaggle Data Science Dashboard
 
-<p align="center">
-  <a href="https://www.kaggle.com/n4yuc4">
-    <img src="https://kaggle-profile-summary-card.vercel.app/api?username=n4yuc4&theme=tokyonight" alt="Kaggle Profile Summary Card" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" colspan="4">
+        <a href="https://www.kaggle.com/n4yuc4">
+          <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/n4yuc4" alt="Kaggle Profile Summary" width="600px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Competitions</strong></td>
+      <td align="center"><strong>Notebooks</strong></td>
+      <td align="center"><strong>Datasets</strong></td>
+      <td align="center"><strong>Discussions</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/competition" alt="Competition" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/notebook" alt="Notebook" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/dataset" alt="Dataset" />
+      </td>
+      <td align="center">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/n4yuc4/discussion" alt="Discussion" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
